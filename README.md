@@ -40,7 +40,7 @@ python --version
 **1. Clone the repository**
 ```bash
 git clone https://github.com/its-ap0503/File-Organiser-Script.git
-cd file-organizer
+cd File-Organizer-Script
 ```
 
 **2. Run the script**
