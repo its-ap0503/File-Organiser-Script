@@ -50,7 +50,8 @@ python file_organizer.py
 
 **3. Enter the path to the folder you want to organize**
 ```
-Enter the Directory path: /home/john/Downloads
+Enter the Directory path: /home/aptuf
+/Downloads
 ```
 The script will sort all files and show you what was moved.
 
