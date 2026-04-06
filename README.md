@@ -39,13 +39,13 @@ python --version
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/its-ap0503/file-organizer.git
+git clone https://github.com/its-ap0503/File-Organiser-Script.git
 cd file-organizer
 ```
 
 **2. Run the script**
 ```bash
-python file_organizer.py
+python File_Organizer.py
 ```
 
 **3. Enter the path to the folder you want to organize**
